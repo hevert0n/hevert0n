@@ -32,8 +32,7 @@ List of all certificates received throughout my learning journey.
 
 ---
 
-## MY PORTFOLIO 
-[Here](https://hevert0n.github.io/)
+## MY PORTFOLIO [Link](https://hevert0n.github.io/)
 
 ## Contact
 
